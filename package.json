@@ -1,0 +1,7 @@
+{
+    "name": "tbtw",
+    "version": "0.0.0",
+    "bin": {
+        "tbtw": "./index.js"
+    }
+}
